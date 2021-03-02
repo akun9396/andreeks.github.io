@@ -1,0 +1,37 @@
+.navbar {
+  background-color: #79d4bd;
+}
+.jumbotron {
+  background-color: #8fffe3;
+  padding-top: 5rem;
+}
+#about {
+  padding-top: 5rem;
+}
+#portofolio {
+  padding-top: 5rem;
+}
+#contact {
+  padding-top: 5rem;
+}
+.lead {
+  font-size: 18px;
+}
+.card-text a {
+  text-decoration: none;
+  color: black;
+}
+#portofolio {
+  background-color: #8fffe3;
+}
+.row a {
+  text-decoration: none;
+  color: black;
+}
+.foot {
+  background-color: #79d4bd;
+}
+.foot a {
+  text-decoration: none;
+  color: black;
+}
